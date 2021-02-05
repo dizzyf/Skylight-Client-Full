@@ -1,6 +1,7 @@
 # all skylight code
 ## about this
-failed project by me reap and 9k
+failed project by me [reap](https://github.com/yagel15637) and [9k](https://github.com/9kcoder)
+
 ## how to use?
 if u had the time and motivation you can make a paid client out of this. yes it will be ez to crack and yes it will be shit but
 you can make some money out of it. i know its super easy to crack. just open fiddler and you can see from where it downloads
